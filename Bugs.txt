@@ -1,0 +1,7 @@
+
+# Problem need to be fixed
+  # 存儲變量
+    # 每次重啓？
+    # 儲存變量 N,E
+    # 會否在使用下一個function時，產生混亂
+      # need detact
