@@ -1,0 +1,18 @@
+# Notes for amount
+
+# int() is interger
+# float() can input decimals
+# math.floor(n) will return the closest integer value
+# math.trunc(n) cut d.p. just keep integer number
+# '//' Rounds down to nearest integer
+# math.sqrt() to find the square root of any positive real number (integer or decimal)
+# isqrt() returns the integer square root of a non-negative integer.
+
+# Degree and radians Translate:
+# math.radians() convert degrees to radians
+# math.degrees() convert radians to degrees
+
+# Trigonometric Values:
+# math.sin(), math.cos(), math.tan()
+# math.asin(), math.acos(), math.atan()
+# math.hypot() hypotenuse of a triangle

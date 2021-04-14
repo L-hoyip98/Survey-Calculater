@@ -1,0 +1,8 @@
+Update log --- V 0.0.3
+
+New functions:
+- Join calculation
+- Decimal degree convert to DDMMSS
+
+Improve user experience:
+- Redesign the menu
